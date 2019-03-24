@@ -48,6 +48,10 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+# Downloadable Content
+ProceduralNaturePacl/*
+Procedural_Ecosystem/*
+
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
